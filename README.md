@@ -4,5 +4,4 @@ Simple React Project to learn CRUD operation
 #  Requirements
 - Download Json Server:
 https://www.npmjs.com/package/json-server
-- watch data using db.json
-
+- Create file db.json and put any JSON data 
